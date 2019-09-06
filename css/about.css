@@ -67,7 +67,7 @@ p {
     line-height: 1.4;
 }
 .navBar { 
-    width: 800px;
+    width: 900px;
     margin: 0 auto;
     display: flex;
     justify-content: space-evenly;
@@ -88,11 +88,57 @@ a{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    justify-content: center;
     width: 800px;
     margin:0 auto;
 }
 .headerpicture{
-    width: 800px;
+    width: 900px;
     box-align: center;
+}
+.about {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: dotted black;
+    padding: 20px;
+}
+.boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.strategy {
+    display: flex;
+    flex-wrap: wrap;
+    width: 44%;
+    border-bottom: dotted darkgrey;
+    padding: 10px;
+}
+.how {
+    display: flex;
+    flex-wrap: wrap;
+    width: 44%;
+    border-bottom: dotted darkgrey;
+    padding: 10px;
+}
+.places {
+    display: flex;
+    flex-wrap: wrap;
+    width: 44%;
+    border-bottom: dotted darkgrey;
+    padding: 10px;
+}
+.collaberation {
+    display: flex;
+    flex-wrap: wrap;
+    width: 44%;
+    border-bottom: dotted darkgrey;
+    padding: 10px;
+}
+p {
+    padding: 5px;
+}
+h3 {
+    padding: 10px;
 }

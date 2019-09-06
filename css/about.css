@@ -114,6 +114,7 @@ a{
     width: 44%;
     border-bottom: dotted darkgrey;
     padding: 10px;
+    margin-top: 20px;
 }
 .how {
     display: flex;
@@ -121,6 +122,7 @@ a{
     width: 44%;
     border-bottom: dotted darkgrey;
     padding: 10px;
+    margin-top: 20px;
 }
 .places {
     display: flex;
@@ -128,6 +130,7 @@ a{
     width: 44%;
     border-bottom: dotted darkgrey;
     padding: 10px;
+    margin-top: 20px;
 }
 .collaberation {
     display: flex;
@@ -135,6 +138,7 @@ a{
     width: 44%;
     border-bottom: dotted darkgrey;
     padding: 10px;
+    margin-top: 20px;
 }
 p {
     padding: 5px;
@@ -156,4 +160,9 @@ footer {
 }
 footer .navBar a{
     color: white;
+}
+.bottom {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px 10px;
 }

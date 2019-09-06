@@ -66,7 +66,7 @@ h1, h2, h3, h4, h5 {
 p {
     line-height: 1.4;
 }
-.navBar { 
+.navBar{ 
     width: 900px;
     margin: 0 auto;
     display: flex;
@@ -141,4 +141,19 @@ p {
 }
 h3 {
     padding: 10px;
+}
+button {
+    background-color: white;
+    color: black;
+    border-radius: 8px;
+    height: 40px;
+    width: 120px;
+    border: solid black 3px;
+    margin: 20px 0;
+}
+footer {
+    background-color: black;
+}
+footer .navBar a{
+    color: white;
 }
